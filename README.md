@@ -15,4 +15,4 @@ Conditional formatting for visual impact.
 🌐 Impact:
 "Vrinda_Store_Project_Report" dashboard is set to revolutionize how we approach [specific GENERAL STORE]. The goal is to [mention the key objectives – e.g., improve efficiency, enhance decision-making].
 🤓 Learning Points:
-Through this project, I've delved into [Data_Cleaning, Data_Processing, Slicer, Pivot Table]. Excited to continue exploring and expanding my expertise in the realm of data visualization!
+Through this project, I've delved into [Data_Cleaning, Data_Processing, Slicer, Pivot Table]. Excited to continue exploring and expanding my expertise in the realm of data visualization!!
